@@ -19,7 +19,7 @@ Este repositorio contiene el proyecto base de Vivero Virtual en Roblox. En él e
 
 Además, puedes explorar el metaverso publicado en Roblox a través del siguiente enlace.
 
-Metaverso en Roblox: https://www.roblox.com/games/108642433022293/Galer-a-Vivero-Virtual 
+Metaverso en Roblox: https://www.roblox.com/games/135433554336741/Metaverso-Base
 
 <img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/565d0193-26f7-410e-a866-eb5ef8df8b0e">
 
