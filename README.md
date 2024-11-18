@@ -15,12 +15,13 @@
 <br>
 
 ## :pencil: Descripción ##
-Este repositorio contiene el proyecto base de Vivero Virtual en Roblox. En él encontrarás un escenario ambientado con un modelo base de la SAla del Vivero Virtual, sillas, cuadros, un fondo (skybox) y la mascota de Vivero Virtual. A partir de este proyecto, puedes comenzar a personalizar interacciones y añadir aquellas que ofrece Roblox por defecto. Además, puedes explorar el metaverso publicado en Roblox a través del siguiente enlace.
+Este repositorio contiene el proyecto base de Vivero Virtual en Roblox. En él encontrarás un escenario ambientado con un modelo base de la Sala del Vivero Virtual, sillas, cuadros, un fondo (skybox) y la mascota de Vivero Virtual. A partir de este proyecto, puedes comenzar a personalizar interacciones y añadir aquellas que ofrece Roblox por defecto. 
+
+Además, puedes explorar el metaverso publicado en Roblox a través del siguiente enlace.
 
 Metaverso en Roblox: https://www.roblox.com/games/108642433022293/Galer-a-Vivero-Virtual 
 
-<img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/c5513943-7843-4311-878b-ea534dcf0110">
-
+<img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/565d0193-26f7-410e-a866-eb5ef8df8b0e">
 
 ## :goggles: Vivero Virtual ##
 
